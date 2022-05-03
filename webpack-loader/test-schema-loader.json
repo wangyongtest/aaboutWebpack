@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "str": {
+      "type":"object",
+      "description": "输入内容"
+    }
+  },
+  "additionalProperties": false
+}

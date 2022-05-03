@@ -1,0 +1,32 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/generator": "^7.17.10",
+    "@babel/parser": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/traverse": "^7.17.10",
+    "babel-loader": "^8.2.5",
+    "babel-types": "^6.26.0",
+    "css-loader": "^6.7.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "less": "^4.1.2",
+    "loader-utils": "^3.2.0",
+    "mime": "^3.0.0",
+    "schema-utils": "^4.0.0",
+    "to-string-loader": "^1.2.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
